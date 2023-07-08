@@ -22,7 +22,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>  
 
