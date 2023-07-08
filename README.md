@@ -40,4 +40,4 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunomlinhares&show_icons=true&theme=radical)](https://github.com/lucasfernandoassiswebdev/github-readme-stats&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunomlinhares&show_icons=true&theme=radical)](https://github.com/brunomlinhares/)
