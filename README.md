@@ -20,4 +20,4 @@ Sou um desenvolvedor Python apaixonado, com experiência em desenvolvimento back
 - **Otimização de Algoritmos**: Aplicando e otimizando algoritmos como Rectangular Bin Packing e QuadTree.
 
 ## 💼 Experiência Profissional
-Atuo na criação de soluções escaláveis com foco em backends baseados em Python. Atualmente, estou desenvolvendo uma plataforma SaaS que permite aos clientes criar boletas personalizadas e gerenciar a distribuição de cupons, com ênfase em desempenho e segurança.
+Atuo na criação de soluções escaláveis com foco em backends baseados em Python. Atualmente trabalho como Desenvolvedor Full Stack na [Fran Adesivos]('https://www.franadesivos.com.br'), desenvolvendo tanto no site quanto automações internas.
